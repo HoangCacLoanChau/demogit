@@ -25,5 +25,5 @@ git push
 git pull
 // xem commit
 git log 
-///reverse last commit
+///reverse last commit (not pull yet)
 git stash
