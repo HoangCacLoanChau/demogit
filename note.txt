@@ -12,3 +12,7 @@ git push
 
 ///branch 
 1. git branch -b newbranch : tạo ra nhánh newbranch
+
+// merge 
+1. chuyển qua main
+2. git merge login: lấy commit trong login vào main 
