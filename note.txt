@@ -9,3 +9,6 @@ git remote add origin https://github.com/HoangCacLoanChau/demogit.git lien ket
 
 đẩy lần 2
 git push 
+
+///branch 
+1. git branch -b newbranch : tạo ra nhánh newbranch
