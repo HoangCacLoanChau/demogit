@@ -1,7 +1,7 @@
 git init: khởi tạo repo local 
 
 git remote add origin https://github.com/HoangCacLoanChau/demogit.git lien ket 
-
+// push 
 đẩy code từ local lên remote
 1. git add -A: chọn
 2. git commit "chu thich": xac nhan va ghi kem chu thich
@@ -16,3 +16,14 @@ git push
 // merge 
 1. chuyển qua main
 2. git merge login: lấy commit trong login vào main 
+3. commit lai 
+// clone 
+1. git clone http://.... thêm dấu . sẽ add tất cả file zo repo hiện tại 
+2. git clone http://.... tạo ra repo mới 
+
+// pull 
+git pull
+// xem commit
+git log 
+///reverse last commit
+git stash
